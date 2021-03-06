@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">domzdravljamenu</string>
+
+    <string-array name="names">
+        <item> Option A </item>
+        <item> Option B </item>
+        <item> Option C </item>
+    </string-array>
+
+</resources>
